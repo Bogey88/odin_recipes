@@ -1,0 +1,13 @@
+h1 {
+    background-color: tomato;
+    color: black;
+    text-align: center;
+}
+
+.main {
+    background-color: hsl(177, 50%, 57%);
+}
+
+.cheezy {
+    background-color: yellow;
+}
